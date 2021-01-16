@@ -3,5 +3,6 @@ Git is free software distributed under the GPL.
 Git change second aaa.
 Git has a change ddd.
 Creating a new btanch is quick.
-here.
+haha.
 git stash.
+New line.
